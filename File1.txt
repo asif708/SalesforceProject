@@ -6,7 +6,7 @@ This is My First File....Welcome to Git...!!!
 	 This is a Home Page...Welcome to Home HTML!!! </H1>
 
 	<BODY>
-	<FORM>
+	<FORM action="home.java">
 	UserName : <INPUT type="text" name="name"/> 
 	Password : <INPUT type="password" name="pass"/>
 	<INPUT type="submit" value="Login"/>
