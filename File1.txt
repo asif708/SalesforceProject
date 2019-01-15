@@ -4,8 +4,9 @@ This is My First File....Welcome to Git...!!!
 	<H1> This is a Home Page </H1>
 	<BODY>
 	<FORM>
-	UserName : <INPUT type="text"> </INPUT>
-	Password : <INPUT type="password"> </INPUT>
-	<FORM>
+	UserName : <INPUT type="text" name="name"/> 
+	Password : <INPUT type="password" name="pass"/>
+	<INPUT type="submit" value="Login"/>
+	</FORM>
 	</BODY>
-<HTML>
+</HTML>
